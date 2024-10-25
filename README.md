@@ -1,6 +1,6 @@
 👋 Hi, I’m @gonvlla
 👀 I’m interested in backend development and programming languages like C++ and Python.
-🌱 I’m currently learning object-oriented programming and algorithms.
+🌱 I’m currently learning oop.
 📫 How to reach me: LinkedIn or email.
 
 <!---
